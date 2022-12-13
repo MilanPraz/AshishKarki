@@ -6,7 +6,7 @@
     background-color: black;
 }
 
-li a button{
+li a buttonn{
     font-family: "Montserrat", sans-serif;
     font-weight: 400px;
     font-size: 18px;
@@ -58,7 +58,7 @@ header{
 }
 /*for the buttons*/
 
-button{
+buttonn{
     padding: 9px 25px;
     border-radius: 50px;
     background-color: rgba(255, 0, 0, 0.8);
