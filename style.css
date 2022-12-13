@@ -75,7 +75,7 @@ button:hover{
     color: white;
     font-family: "Montserrat", sans-serif;
     font-size: 50px;
-    padding: 100px 0px 0px 7px;
+    padding: 100px 0px 10px 7px;
    
 }
 /*display flex inside parent makes child display in single line */
@@ -88,7 +88,7 @@ button:hover{
     color: white;
     font-family: "Montserrat", sans-serif;
     font-size: 50px;
-    padding: 100px 7px 0px 30px;
+    padding: 100px 7px 10px 30px;
 }
 #start{
     color: white;
