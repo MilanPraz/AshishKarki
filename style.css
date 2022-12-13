@@ -6,7 +6,7 @@
     background-color: black;
 }
 
-li a buttonn{
+lii a buttonn{
     font-family: "Montserrat", sans-serif;
     font-weight: 400px;
     font-size: 18px;
@@ -34,14 +34,14 @@ header{
     padding: 30px 30px;
 
 }
-.navlinks li a:hover {
+/* .navlinks li a:hover {
     color: red;
 }
 .navlinks li{
     display: inline-block;
     padding: 0px 20px;
     list-style: none;
-}
+} */
 
 .flex-container{
     display: flex;
@@ -58,7 +58,7 @@ header{
 }
 /*for the buttons*/
 
-buttonn{
+/* buttonn{
     padding: 9px 25px;
     border-radius: 50px;
     background-color: rgba(255, 0, 0, 0.8);
@@ -68,7 +68,7 @@ buttonn{
 button:hover{
     background-color: rgba(255, 0, 0, 1);
 
-}
+} */
 /*for the text animation */
 
 .continue{
